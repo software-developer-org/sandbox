@@ -2,8 +2,7 @@
 
 **dublicate the 2nd file**
 
-
-'$cp stagingtest2.md https://github.com/software-developer-org/sandbox/tree/feature/10-staging/challenge-010'
+`$cp stagingtest2.md C:\Users\Medion AKOYA\Desktop\Rouven\Programmieren\Gitspace\sandbox\challenge-010`
 
 
 
