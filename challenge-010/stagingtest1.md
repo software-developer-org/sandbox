@@ -1,4 +1,4 @@
-#**Stagingtest**
+# **Stagingtest**
 
 Exercises for staging in git
 
@@ -9,9 +9,9 @@ Exercises for staging in git
 
 
 
-##**References**
+## **References**
 
-* [Markdown Reference] (https://guides.github.com/features/mastering-markdown/)
+* [Markdown Reference](https://guides.github.com/features/mastering-markdown/)
 
 * [Wikipedia](https://de.wikipedia.org/wiki/Git)
 
