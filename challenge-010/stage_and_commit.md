@@ -80,24 +80,24 @@ index d3785e0..6d3a108 100644
 +++ b/challenge-010/stage_and_commit.md
 @@ -16,7 +16,7 @@ Untracked files:
  nothing added to commit but untracked files present (use "git add" to track)
- ```
+
 
 -**Stage Output**
 +## **Stage Output**
 
- ```
+
  Medion AKOYA@DESKTOP-76ECOJG MINGW64 ~/Desktop/Rouven/Programmieren/Gitspace/sandbox/challenge-010 (feature/13-stage_and_commit)
 @@ -32,7 +32,7 @@ Changes to be committed:
          new file:   stage_and_commit.md
- ```
+
 
 -**Diff**
 +## **Diff**
 
- ```
+ 
  Medion AKOYA@DESKTOP-76ECOJG MINGW64 ~/Desktop/Rouven/Programmieren/Gitspace/sandbox/challenge-010 (feature/13-stage_and_commit)
 @@ -40,3 +40,34 @@ $ git diff
- ```
+ 
 
  The git diff command shows nothing because it has no staged file too compare with.
 +
@@ -109,8 +109,8 @@ index d3785e0..6d3a108 100644
 +
 +## **Check Status**
 +
-+```
-+```
++
++
 +Medion AKOYA@DESKTOP-76ECOJG MINGW64 ~/Desktop/Rouven/Programmieren/Gitspace/sandbox/challenge-010 (feature/13-stage_and_commit)
 +$ git status
 +On branch feature/13-stage_and_commit
@@ -124,7 +124,7 @@ index d3785e0..6d3a108 100644
 +  (use "git add <file>..." to update what will be committed)
 +  (use "git restore <file>..." to discard changes in working directory)
 +        modified:   stage_and_commit.md
-+```
++
 +
 +The status command now shows 2 versions of our file.
 +One is the staged version and the other one is the modified one that's not staged.
@@ -188,7 +188,7 @@ index caccaca..b18eb05 100644
 
 +## **Status after Staging**
 +
-+```
++
 +Medion AKOYA@DESKTOP-76ECOJG MINGW64 ~/Desktop/Rouven/Programmieren/Gitspace/sandbox/challenge-010 (feature/13-stage_and_commit)
 +$ git status
 +On branch feature/13-stage_and_commit
@@ -197,7 +197,7 @@ index caccaca..b18eb05 100644
 +Changes to be committed:
 +  (use "git restore --staged <file>..." to unstage)
 +        new file:   stage_and_commit.md
-+```
++
 +
 +now the staged file was updatet with the modifications so only one version of our file remains.
 +
@@ -215,7 +215,7 @@ odified one.
 
 +## **Status after Staging**
 +
-+```
++
 +Medion AKOYA@DESKTOP-76ECOJG MINGW64 ~/Desktop/Rouven/Programmieren/Gitspace/sa
 ndbox/challenge-010 (feature/13-stage_and_commit)
 +$ git status
@@ -225,7 +225,7 @@ ndbox/challenge-010 (feature/13-stage_and_commit)
 +Changes to be committed:
 +  (use "git restore --staged <file>..." to unstage)
 +        new file:   stage_and_commit.md
-+```
++
 +
 +now the staged file was updatet with the modifications so only one version of our file remains.
 +
@@ -233,7 +233,7 @@ ndbox/challenge-010 (feature/13-stage_and_commit)
 +
 +## **Git Status**
 +
-+```
++
 +Medion AKOYA@DESKTOP-76ECOJG MINGW64 ~/Desktop/Rouven/Programmieren/Gitspace/sandbox/challenge-010 (feature/13-stage_and_commit)
 +$ git status
 +On branch feature/13-stage_and_commit
@@ -247,7 +247,7 @@ ndbox/challenge-010 (feature/13-stage_and_commit)
 +  (use "git add <file>..." to update what will be committed)
 +  (use "git restore <file>..." to discard changes in working directory)
 +        modified:   stage_and_commit.md
-+```
++
 +
 +Again a new modified version exists.
 ```
