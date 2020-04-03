@@ -29,8 +29,8 @@ https://github.com/software-developer-org/sandbox/commit/ab35f0705f3cc65e3ef403b
 
 # References
 
-* ![Wikipedia](https://en.wikipedia.org/wiki/Markdown)
-* ![GitHubRepo](https://github.com/topics/markdown)
+* [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+* [GitHubRepo](https://github.com/topics/markdown)
 
 
 
