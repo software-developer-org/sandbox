@@ -9,8 +9,10 @@
 
 * **There are two commands for removing**
   * **`$ rm <filename>`**
+
   **or**
-  * **`$ git rm <filename>'**
+
+  * **`$ git rm <filename>`**
 
 * **With git rm the file is staged and deleted**
 
@@ -28,7 +30,7 @@
 
 * **Use the `$ git checkout --<filename>`comand**
 
-* **You can also checkout branches or commits usingtheir respektive SHA-1 **
+* **You can also checkout branches or commits usingtheir respektive SHA-1**
 
 
 ## **References**
