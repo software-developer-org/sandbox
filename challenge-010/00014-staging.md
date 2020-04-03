@@ -10,3 +10,10 @@
 *Test for Staging with Markdown*
 
 
+# This is a Header/Chapter
+
+### Learn Markdown:
+\- *Read carefully*
+\- *Practice a lot*
+
+
