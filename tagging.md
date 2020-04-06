@@ -8,7 +8,7 @@
   * **`$ git tag`**
 
 * **Search for a Tag**
-  * **`$ git tag -l '<tagname>'**
+  * **`$ git tag -l <tagname>`**
 
 ### **Create**
 
@@ -21,7 +21,7 @@
 
 
 * **Creating a Annotated Tag**
-  * **`$ git -a <tagname> -m '<tag message>'
+  * **`$ git -a <tagname> -m <tag message>`
 
 * **Annotated Tags store meta-data you can see using**
   * **`$ngit show <tagname>`**
@@ -31,7 +31,9 @@
 
 * **Pushing Tags to Remote**
   * **`$ git push origin --tags`**
+     
      or for an specific one
+
   * **`$ git push origin <tagnmae>`**
 
 
@@ -42,7 +44,7 @@
   * **`$ git tag -d <tagname>`**
     * remove a local tag
 
-  * **`$ git push origin --delete <tagname>'**
+  * **`$ git push origin --delete <tagname>`**
     * remove a remote tag
 
 ### **Checking**
