@@ -1,0 +1,11 @@
+# **Steps to Delete/Remove File**
+
+* **There are two commands for removing**
+  * **`$ rm <filename>`. This is a Bash command**
+  **or**
+  * **`$ git rm <filename>'. This is a Git command**
+
+* **With git rm the file is staged and deleted**
+
+* **We can also extract a file from a commit with `$ git rm <filename> --cached`**
+
