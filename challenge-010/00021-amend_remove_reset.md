@@ -6,7 +6,7 @@
 * Open vi editor  **vi 0001-new_feature.md** - Edit the file
 * Close the vi editor and checkout with: **git status**
 * Add the file with **git add <name of the file>**
-* Commit it **git commit -m '#01 Adding a File'
+* Commit it **git commit -m '#01 Adding a File'**
 * Push it to GitHub **git push -u origin feature/01-new_feature**
 
 
