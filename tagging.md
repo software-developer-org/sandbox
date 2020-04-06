@@ -24,7 +24,7 @@
   * **`$ git -a <tagname> -m <tag message>`
 
 * **Annotated Tags store meta-data you can see using**
-  * **`$ngit show <tagname>`**
+  * **`$ git show <tagname>`**
 
 
 ### **Share**
