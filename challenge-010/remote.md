@@ -30,5 +30,6 @@
   * **Allows merges mady by the 'recursive' strategy**
 
  
-## **Use `git fetch` followed by `git merge` to first check changes and than pulling them to your lokal**
+## **Use `git fetch` followed by `git merge`** 
+### **to first check changes and than pulling them to your lokal repo**
 
