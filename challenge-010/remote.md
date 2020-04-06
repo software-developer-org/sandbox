@@ -8,7 +8,7 @@
 
 * **`$ git remote add -f --tags -t master -t develop <remotename> <remoteurl>`**
 
-  * ** `-f` stands for fetch `--tags` add tags  ´-t`  fetch this branch
+  * **`-f` stands for fetch `--tags` add tags `-t` fetch this branch**
 
 
 * **`$ git show <remote>`**
