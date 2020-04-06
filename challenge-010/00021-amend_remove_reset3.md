@@ -9,4 +9,10 @@
 
 * **Whith the `--hard`option we can discard all changes we made**
 
+## **References:**
+
+[**Stackoverflow**](https://stackoverflow.com/questions/9529078/how-do-i-use-git-reset-hard-head-to-revert-to-a-previous-commit)
+
+[**Stackoverflow-GitHub**](https://stackoverflow.com/questions/55098089/uploading-big-file-on-github-with-lfs)
+
 
