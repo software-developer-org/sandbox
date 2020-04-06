@@ -7,6 +7,6 @@
 * Close the vi editor and checkout with: **git status**
 * Add the file with **git add <name of the file>**
 * Commit it **git commit -m '#01 Adding a File'
-
+* Push it to GitHub **git push -u origin feature/01-new_feature**
 
 
