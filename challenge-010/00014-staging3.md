@@ -2,11 +2,11 @@
 
 ### Exercise to the Second File
 
-\- **Second Markdown File**
+- **Second Markdown File**
 
 # Mastering Markdown
 
-https://guides.github.com/features/mastering-markdown/#examples
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/#examples)
 
 
 ## This is the command to copy a file
