@@ -1,4 +1,4 @@
-# **Logs and Commits
+# Logs and Commits
 
 ## **Last 3 Logs**
 
