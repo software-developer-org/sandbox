@@ -37,7 +37,7 @@
 
 - **`git branch --set-upstream-to origin/master.**
 
-  	- * Doesn't work on empty branches without commits*
+  	- *Doesn't work on empty branches without commits*
   
  	- *Altenative are **`--track` or `-u`** Commands*
 
