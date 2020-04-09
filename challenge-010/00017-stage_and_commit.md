@@ -40,7 +40,7 @@ RagipGashisMBP:challenge-010 ragipgashi$
 *This is a **history** of bash commands*
 
 
-##**Checkout Status**
+## **Checkout Status**
 
 RagipGashisMBP:challenge-010 ragipgashi$ git status
 On branch feature/17-stage_and_commit
@@ -57,12 +57,12 @@ Changes not staged for commit:
 
 RagipGashisMBP:challenge-010 ragipgashi$
 
-###Explanation:
+### Explanation:
  
 *This happends because we have modified the file with some contents and it needs to be staged and than commited.*
 
 
-##**Git Diff**
+## **Git Diff**
 
 RagipGashisMBP:challenge-010 ragipgashi$ git diff
 diff --git a/challenge-010/00017-stage_and_commit.md b/challenge-010/00017-stage_and_commit.md
@@ -82,7 +82,7 @@ index ee3b157..791aadd 100644
  
  nothing added to commit but untracked files present (use "git add" to track)
 
-###Expnanation:
+### Expnanation:
 
 *Git diff command shows nothing just like in the previous case, there is no file to compare with*
 
@@ -100,7 +100,7 @@ Changes to be committed:
 
 RagipGashisMBP:challenge-010 ragipgashi$ 
 
-###Explanation: 
+### Explanation: 
 
 *The command **git status** shows only one version of the file, that means that this file is up to date and staged, so ready to be commited.*
 
@@ -110,7 +110,7 @@ RagipGashisMBP:challenge-010 ragipgashi$
 *This is some other content to see the difference*
 
 
-##**Check Status**
+## **Check Status**
 
 RagipGashisMBP:challenge-010 ragipgashi$ git status
 On branch feature/17-stage_and_commit
@@ -127,17 +127,17 @@ Changes not staged for commit:
 
 RagipGashisMBP:challenge-010 ragipgashi$ 
 
-###Explanation:
+### Explanation:
 
 *This shows two versions of the file, means: we have updated the file but it is not staged*
 
 
-##**Git Diff**
+## **Git Diff**
 
 *The diff command now shows the difference between the staged file and modified file.*
 
 
-##**Status after Staging**
+## **Status after Staging**
 
 RagipGashisMBP:challenge-010 ragipgashi$ git add 00017-stage_and_commit.md 
 RagipGashisMBP:challenge-010 ragipgashi$ git status
@@ -149,12 +149,12 @@ Changes to be committed:
 
 RagipGashisMBP:challenge-010 ragipgashi$ 
 
-##Explanation:
+## Explanation:
 
 *Now the file is updated and everything is staged, ready to be commited. That's why ony one file remains*
 
 
-##**Check Status After Commit**
+## **Check Status After Commit**
 
 RagipGashisMBP:challenge-010 ragipgashi$ git status
 On branch feature/17-stage_and_commit
